@@ -1,4 +1,4 @@
-# file-encypt-decrypt-using-openssl
+# file-encypt-decrypt-using-openssl #
 
 How To Encrypt And Decrypt Files Using OpenSSL On Ubuntu Linux
 https://www.youtube.com/watch?v=YU1AI62khIY
